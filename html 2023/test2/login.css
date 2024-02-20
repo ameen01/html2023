@@ -1,0 +1,25 @@
+.log{
+    width: 400px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    opacity: 70%;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+h1{
+    margin-left: 40%;
+}
+
+button{
+    background-color: red;
+    height: 50px;
+    width: 150px;
+    margin-left: 30%;
+}
+input{
+    width: 350px;
+    height: 40px;
+    margin-left: 5%;
+}

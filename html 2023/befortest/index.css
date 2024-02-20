@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: skyblue;
+}
+
+.items{
+    background-color: white;
+    width: 250px;
+    height: 400px;
+}
+#Started_btn{
+    background-color: green;
+    border: none;
+    padding: 8px;
+}
+#free_p{
+    opacity: 50%;
+}

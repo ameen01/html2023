@@ -1,0 +1,62 @@
+body{
+    background-color: blue;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    
+}
+
+.free{
+    background-color: white;
+    width: 250px;
+    border-radius: 10px;
+    height: 500px;
+}
+
+#Button{
+    background-color: green;
+    width: 150px;
+    height: 50px;
+    margin-left: 12%;
+    border-radius: 10px;
+}
+
+.plus{
+    background-color: white;
+    width: 250px;
+    border-radius: 10px;
+    height: 500px;
+    margin-left: 50px;
+}
+
+.pro{
+    background-color: white;
+    width: 250px;
+    border-radius: 10px;
+    height: 500px;
+    margin-left: 50px;
+}
+
+#month1{
+    opacity: 50%;
+    margin-left: 15%;
+}
+
+#free{
+    opacity: 50%;
+    margin-left: 90px;
+}
+
+.class1{
+    margin-left: 27%;
+}
+.cost{
+    margin-left: 27%;
+}
+.h12{
+    margin-left: 27%;
+}
+#id1{
+    margin-left: 15%;
+}
+

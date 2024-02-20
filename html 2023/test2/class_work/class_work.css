@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li{
+    list-style-type: none;
+    margin-left: 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar{
+    display: flex;
+    background-color: rgb(44, 41, 41);
+}
+
+.from{
+    display: flex;
+    margin-left: 22%;
+}

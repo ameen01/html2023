@@ -1,0 +1,26 @@
+.dropbtn{
+    background-color: green;
+    border: none;
+    padding: 16px;
+    cursor: pointer;
+}
+
+.dropdown_links a{
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+}
+.dropdown_links{
+    display: none;
+    background-color: aqua;
+    position: absolute;
+    min-width: 85px;
+}
+.dropdown:hover .dropdown_links{
+    display: block;
+
+}
+.dropdown_links a:hover{
+ background-color: aquamarine;
+ color: white;
+}

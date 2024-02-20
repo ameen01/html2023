@@ -1,0 +1,29 @@
+.dropdown1{
+    display: inline-block;
+}
+#button{
+    border: none;
+    background-color: rgb(222, 36, 36);
+    padding: 16px;
+    cursor: pointer; 
+    width: 77px;  
+}
+.dropdown2 a{
+    display: none;
+    text-decoration: none;
+    color: black;
+    padding: 4px;
+}
+.dropdown2{
+    background-color: aqua;
+    position: absolute;
+}
+
+.dropdown1:hover .dropdown2 a{
+    display: block;
+
+}
+.dropdown2 a:hover{
+    background-color: rgb(235, 235, 228);
+}
+
